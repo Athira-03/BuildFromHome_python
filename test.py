@@ -1,13 +1,17 @@
 #python libraries
+#python libraries
+
 import datetime
 import csv
 import tweepy
+import authentication 
 
-key = '13938430......................................84........................moylzIju65f'
-secret = "LB0nB.....................................................Myo"
 
-consumer_key = "rQM6ra............................................hmce17"
-consumer_secret = "tLEmpa............................................cwBfnq"
+key = authentication.key1
+secret = authentication.secret2
+
+consumer_key = authentication.ckey
+consumer_secret = authentication.csecret
 
 auth = tweepy.AppAuthHandler(consumer_key, consumer_secret)
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
