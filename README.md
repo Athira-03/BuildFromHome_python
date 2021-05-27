@@ -12,8 +12,8 @@ The team which worked behind the project is BLACK_FLOW and the team members are 
 TEAM ID :  BFH/recrWI7zonBoJhgZZ/2021
 
 MATERIALS USED FOR REFFERENCE : 
-https://realpython.com/twitter-bot-python-tweepy/
-https://www.youtube.com/watch?v=zJzPyEPCbXs&list=PLlRFEj9H3Oj7Bp8-DfGpfAfDBiblRfl5p&index=70
+https://realpython.com/twitter-bot-python-tweepy/ 
+https://www.youtube.com/watch?v=zJzPyEPCbXs&list=PLlRFEj9H3Oj7Bp8-DfGpfAfDBiblRfl5p&index=70 
 https://youtu.be/dvAurfBB6Jk
 
 Team members: 
