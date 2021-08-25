@@ -17,6 +17,6 @@ https://www.youtube.com/watch?v=zJzPyEPCbXs&list=PLlRFEj9H3Oj7Bp8-DfGpfAfDBiblRf
 https://youtu.be/dvAurfBB6Jk
 
 Team members: 
-1. Athira Rajesh 
-2. Annet Maria 
+1. Athira Rajesh(Team leader) 
+2. Annet Maria Cyriac 
 3. Savanth P.S 
